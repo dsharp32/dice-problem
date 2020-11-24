@@ -87,7 +87,7 @@ class Handful:
         
         return throw_array
 
-NUM_TESTS = 300000000
+NUM_TESTS = 10
 A_win_counter = 0
 A_i_list = []
 
